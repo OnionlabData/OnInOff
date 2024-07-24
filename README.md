@@ -7,6 +7,11 @@ Installers for OnInOff
 2. Extract the **OnInOff_X.X.X.zip** file
 3. Run **setup.exe**
 
+## v1.2.1
+*   Fixes an error when assigning static IPs to the nodes
+*   Makes draggable spinboxes work with Y axis too
+*   Other minor bug fixes and optimisations
+
 ## v1.2.0
 *   Now includes support for SLAMTEC's RPLidars
 *   Improved interpolation and prediction algorithms
