@@ -7,6 +7,24 @@ Installers for OnInOff
 2. Extract the **OnInOff_X.X.X.zip** file
 3. Run **setup.exe**
 
+## v1.3.0
+*	Now includes support for Hokuyo Lidars
+*	Allows editing and modifying corner points
+*	Enables starting and shutting down sensors from the sensors list
+*	Adds new power settings to start and shut down sensors automatically
+*	Allows recalibrating the canvas within the same project
+*	Provides a dedicated window for canvas calibration
+*	Adds a one-click option to configure all visible sensors at once in sensor preferences
+*	Includes a new option to reset sensor preferences to default
+*	Introduces Neuronal mode (beta version)
+*	Adds the option to configure triggers to activate for every object that enters or exits a trigger zone
+*	Allows parametrizing trigger commands with detected object data such as id, position, height, angle, and size
+*	Improves the sensor connection system
+*	Enhances offline license validation
+*	Improves the log system
+*	Includes minor user interface improvements
+*	Other minor bug fixes and optimisations
+
 ## v1.2.1
 *   Fixes an error when assigning static IPs to the nodes
 *   Makes draggable spinboxes work with Y axis too
