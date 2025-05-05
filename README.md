@@ -7,6 +7,11 @@ Installers for OnInOff
 2. Extract the **OnInOff_X.X.X.zip** file
 3. Run **setup.exe**
 
+## v1.3.1
+*   Fixes an error when switching to Detection mode using Lidars
+*   License is now shared between users when installed for "Everyone"
+*   Other minor bug fixes
+
 ## v1.3.0
 *	Now includes support for Hokuyo Lidars
 *	Allows editing and modifying corner points
