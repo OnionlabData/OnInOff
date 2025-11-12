@@ -8,7 +8,7 @@ Installers for OnInOff
 3. Run **setup.exe**
 
 ## v1.3.4
-*   Lidars now send a Size parameter in the output
+*   OnInOff now calculates and sends a Size parameter in the output when using lidars
 *   UI Popup freezes now occur when necessary instead of all the time
 *   Various UI improvements
 *   Other minor bug fixes
