@@ -7,6 +7,12 @@ Installers for OnInOff
 2. Extract the **OnInOff_X.X.X.zip** file
 3. Run **setup.exe**
 
+## v1.3.4
+*   Lidars now send a Size parameter in the output
+*   UI Popup freezes now occur when necessary instead of all the time
+*   Various UI improvements
+*   Other minor bug fixes
+
 ## v1.3.1
 *   Fixes an error when switching to Detection mode using Lidars
 *   License is now shared between users when installed for "Everyone"
